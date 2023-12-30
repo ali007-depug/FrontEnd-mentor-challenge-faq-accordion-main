@@ -37,8 +37,8 @@ Desktop design
 ![Desktop_img](./scrrenshots/desktop.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/soultions/fac-accordion-main-zU_QY8N6QL)
+- Live Site URL: [Add live site URL here](https://ali007-depug.github.io/FrontEnd-mentor-challenge-faq-accordion-main/)
 
 ## My process
 
