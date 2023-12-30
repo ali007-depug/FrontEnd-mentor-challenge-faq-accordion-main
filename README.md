@@ -38,7 +38,7 @@ Desktop design
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/soultions/fac-accordion-main-zU_QY8N6QL)
-- Live Site URL: [Add live site URL here](https://ali007-depug.github.io/FrontEnd-mentor-challenge-faq-accordion-main/)
+- Live Site URL: [live site](https://ali007-depug.github.io/FrontEnd-mentor-challenge-faq-accordion-main/)
 
 ## My process
 
